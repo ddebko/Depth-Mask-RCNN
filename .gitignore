@@ -1,0 +1,7 @@
+#    Coco Model   #
+###################
+*.h5
+
+# Compiled source #
+###################
+__pycache__/
